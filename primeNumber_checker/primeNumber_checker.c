@@ -14,7 +14,11 @@ int main()
             break;
         }
     }
-    if (a == 0)
+    if (n == 1)
+    {
+        printf("1 is neither prime nor composite number");
+    }
+    else if (a == 0)
     {
         printf("%d is a prime number", n);
     }
