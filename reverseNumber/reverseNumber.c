@@ -1,20 +1,22 @@
-//Problem: WAP to print reverse of a given number.
+// Problem: WAP to print reverse of a given number.
 
-#include<stdio.h>
-int main(){
+#include <stdio.h>
+int main()
+{
     int num;
     printf("Enter the number: ");
     scanf("%d", &num);
 
-    int sum, lastDigit;
-    sum = 0;
+    int reverse, lastDigit;
+    reverse = 0;
     lastDigit = 0;
-    while(num>0){
+    while (num > 0)
+    {
         lastDigit = num % 10;
-        sum = (sum*10)+lastDigit;
+        reverse = (reverse * 10) + lastDigit;
         num = num / 10;
     }
-    printf("The reverse of that number is: %d", sum);
+    printf("The reverse of that number is: %d", reverse);
 
     return 0;
 }
