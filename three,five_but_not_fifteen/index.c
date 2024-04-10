@@ -1,4 +1,4 @@
-// Q: Take positive interger input an tell if it is divisible by 5 or 3 but not divisible by 15.
+//Problem: Take positive interger input an tell if it is divisible by 5 or 3 but not divisible by 15.
 
 #include <Stdio.h>
 

@@ -1,0 +1,22 @@
+Problem: Write a program to count digits of a given number.
+
+Problem: Display this GP - 100,50,25,.. upto ‘n’ terms.
+
+problem: Display this GP - 3,12,48,.. upto ‘n’ terms.
+
+problem: Display this GP - 3,12,48,.. upto ‘n’ terms.
+
+Problem: Given a point (x, y), write a program to find out if it lies on the x-axis, y-axis or at the origin, viz (0, 0).
+
+Problem: WAP to check if a number is prime or
+not.
+
+Problem: WAP to print reverse of a given number.
+
+Problem: Given three points (x1, y1), (x2, y2) and (x3, y3), write a program to check if all the three points fall on one straight line
+
+Problem: WAP to print sum of all the even digits of a given number.
+
+Problem: WAP to print the sum of given number and its reverse.
+
+Problem: Take positive interger input an tell if it is divisible by 5 or 3 but not divisible by 15.
