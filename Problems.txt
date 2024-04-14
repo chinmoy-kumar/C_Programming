@@ -1,35 +1,37 @@
-Problem: Write a program to count digits of a given number.
+Problem-01: Write a program to count digits of a given number.
 
-Problem: Display this GP - 100,50,25,.. upto ‘n’ terms.
+Problem-02: Display this GP - 100,50,25,.. upto ‘n’ terms.
 
-problem: Display this GP - 3,12,48,.. upto ‘n’ terms.
+problem-03: Display this GP - 3,12,48,.. upto ‘n’ terms.
 
-problem: Display this GP - 3,12,48,.. upto ‘n’ terms.
+Problem-04: Given a point (x, y), write a program to find out if it lies on the x-axis, y-axis or at the origin, viz (0, 0).
 
-Problem: Given a point (x, y), write a program to find out if it lies on the x-axis, y-axis or at the origin, viz (0, 0).
-
-Problem: WAP to check if a number is prime or
+Problem-05: WAP to check if a number is prime or
 not.
 
-Problem: WAP to print reverse of a given number.
+Problem-06: WAP to print reverse of a given number.
 
-Problem: Given three points (x1, y1), (x2, y2) and (x3, y3), write a program to check if all the three points fall on one straight line
+Problem-07: Given three points (x1, y1), (x2, y2) and (x3, y3), write a program to check if all the three points fall on one straight line
 
-Problem: WAP to print sum of all the even digits of a given number.
+Problem-08: WAP to print sum of all the even digits of a given number.
 
-Problem: WAP to print the sum of given number and its reverse.
+Problem-09: WAP to print the sum of given number and its reverse.
 
-Problem: Take positive interger input an tell if it is divisible by 5 or 3 but not divisible by 15.
+Problem-10: Take positive interger input an tell if it is divisible by 5 or 3 but not divisible by 15.
 
-Problem: WAP to print the sum of this series: 1-2+3-4+5-6+7...upto 'n'
+Problem-11: WAP to print the sum of this series: 1-2+3-4+5-6+7...upto 'n'
 
-Problem: Print the nth fibonacci number.
+Problem-12: Print the nth fibonacci number.
 
-Problem: Print the factorial of a given number 'n'
+Problem-13: Print the factorial of a given number 'n'
 
-Problem: Two numbers are entered through the keyboard. Write a program to find the value of one number raised to the power of another.
+Problem-14: Two numbers are entered through the keyboard. Write a program to find the value of one number raised to the power of another.
 
-Problem: WAP a program to print all the ASCII values and the equivalent characters of 26 alphabets using a while loop.
+Problem-15: WAP to print sum of digits of a given number.
 
-Problem: Take the input initial number and last number. Write a program to print out all Armstrong numbers between that range.
+Problem-16: Take a year as input and check if the year leap year or not.
+
+Problem-17: WAP a program to print all the ASCII values and the equivalent characters of 26 alphabets using a while loop.
+
+Problem-18: Take the input initial number and last number. Write a program to print out all Armstrong numbers between that range.
 
