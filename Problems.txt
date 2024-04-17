@@ -35,3 +35,7 @@ Problem-17: WAP a program to print all the ASCII values and the equivalent chara
 
 Problem-18: Take the input initial number and last number. Write a program to print out all Armstrong numbers between that range.
 
+Pattern Printing Problems:
+----------------------------
+Problem-19: 
+
