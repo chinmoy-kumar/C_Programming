@@ -9,7 +9,7 @@ int main(){
     printf("Enter the Last value: ");
     scanf("%d", &lastNum);
 
-    for (i = initialNum; i < lastNum; i++)
+    for (i = initialNum; i <= lastNum; i++)
     {
         num = i;
         while (num != 0)

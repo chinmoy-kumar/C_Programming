@@ -37,5 +37,6 @@ Problem-18: Take the input initial number and last number. Write a program to pr
 
 Pattern Printing Problems:
 ----------------------------
-Problem-19: 
+Problem-19: print a solid square pattern based on user input.
 
+Problem-20: 
