@@ -39,4 +39,47 @@ Pattern Printing Problems:
 ----------------------------
 Problem-19: print a solid square pattern based on user input.
 
-Problem-20: 
+Problem-20: print the given pattern
+*
+**
+***
+****
+*****
+
+problem-21: print the given pattern
+*****
+****
+***
+**
+*
+
+problem-22: print the given pattern
+1
+12
+123
+
+problem-23: print the given pattern
+123
+12
+1
+
+problem-24: print the given pattern
+1
+1 3
+1 3 5
+1 3 5 7
+
+problem-25: print the given pattern
+A
+A B
+A B C
+A B C D
+
+problem-26: print the given pattern
+1
+A B
+1 2 3
+A B C D
+1 2 3 4 5
+
+problem-27: 
