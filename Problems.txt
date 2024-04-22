@@ -82,4 +82,7 @@ A B
 A B C D
 1 2 3 4 5
 
-problem-27: 
+problem-27: print the given pattern (Hollow Rectangle)
+*******
+*     *
+*******
