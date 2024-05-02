@@ -164,3 +164,42 @@ problem-38: print the given pattern
 ABCDEFGHI
 
 problem-39: print the given pattern
+    1
+   121
+  12321
+ 1234321
+123454321
+
+
+problem-40: print the given pattern
+    A
+   ABA
+  ABCBA
+ ABCDCBA
+ABCDEDCBA
+
+problem-41: print the given pattern
+   *
+  ***
+ *****
+*******
+ *****
+  ***
+   *
+
+problem-42: print the given pattern
+*****
+ ****
+  ***
+   **
+    *
+
+problem-43: print the given pattern
+*********
+**** ****
+***   ***
+**     **
+*       *
+
+problem-44: print the given pattern
+
