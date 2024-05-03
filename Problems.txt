@@ -47,6 +47,7 @@ Problem-20: print the given pattern
 *****
 
 problem-21: print the given pattern
+
 *****
 ****
 ***
@@ -59,6 +60,7 @@ problem-22: print the given pattern
 123
 
 problem-23: print the given pattern
+
 123
 12
 1
@@ -83,6 +85,7 @@ A B C D
 1 2 3 4 5
 
 problem-27: print the given pattern (Hollow Rectangle)
+
 *******
 *     *
 *******
@@ -102,6 +105,7 @@ problem-29: print the given pattern
 1 0 1 0 1 
 
 problem-30: print the given pattern
+
 *   *
  * *
   *
@@ -188,6 +192,7 @@ problem-41: print the given pattern
    *
 
 problem-42: print the given pattern
+
 *****
  ****
   ***
@@ -195,11 +200,26 @@ problem-42: print the given pattern
     *
 
 problem-43: print the given pattern
+
 *********
 **** ****
 ***   ***
 **     **
 *       *
 
-problem-44: print the given pattern
+problem-44: print the given pattern (Take input 3 for this exact result)
+
+1234567
+123 567
+12   67
+1     7
+
+problem-45: print the given pattern
+
+ABCDEFG
+ABC EFG
+AB   FG
+A     G
+
+problem-46: print the given pattern
 
