@@ -223,3 +223,4 @@ A     G
 
 problem-46: print the given pattern
 
+
