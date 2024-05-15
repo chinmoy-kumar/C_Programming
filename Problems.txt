@@ -224,3 +224,11 @@ A     G
 problem-46: print the given pattern
 
 
+Function:
+----------
+
+probelm-47: take two inputs and print the combination of two numbers with the help of functions.
+
+probelm-48: 
+
+
