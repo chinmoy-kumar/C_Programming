@@ -229,6 +229,8 @@ Function:
 
 probelm-47: take two inputs and print the combination of two numbers with the help of functions.
 
-probelm-48: 
+probelm-48: take two inputs and print the permutation of two numbers with the help of functions.
+
+problem-49: You are given an integer ‘N’. You need to return the first ‘N’ rows of Pascal’s triangle.
 
 
