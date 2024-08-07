@@ -235,4 +235,114 @@ problem-49: You are given an integer ‘N’. You need to return the first ‘N�
 
 problem-50: swap the value of two numbers.
 
+problem-51: swap the value of two numbers without using a third variable.
+
+problem-52: swap the values of two number by using pointer
+
+problem-53: Write a function to compute the greatest common divisor of two given numbers.
+
+
+Recursion:
+-----------
+
+problem-54: Take input from user and find the factorial by using recursion.
+
+problem-55: Take input n and print after and before from n to till n using recursion.
+
+problem-56: Print sum from 1 to n using recursion. (parameterized)
+
+problem-57: Print sum from 1 to n using recursion. (return type)
+
+problem-58: Make a function which calculates ‘a’
+raised to the power ‘b’ using recursion.
+
+problem-59: Write a function to calculate the nth
+Fibonacci number using recursion.
+
+problem-60: Find the number of ways, so that the person reaches the top. Consider only single step and double step. (not understand yet this problem)
+
+problem-61: Find the number of ways, so that the person reaches the top. Consider only single step, double step and triple step. (not understand yet this problem)
+
+problem-62: Make a function which calculates ‘a’ raised to the power ‘b’ using recursion. (optimized by logarithmic)
+
+problem-63: Find the total number of ways for a maze path. Consider only one step at a time in right way and down way only.
+
+problem-64: Find the total number of ways for a maze path. Consider only one step at a time in right way and down way only. (optimized)
+
+problem-65: Take input and print zig-zag based on the input.
+
+input ---> output
+-----	  --------
+1 ---------> 111
+2 ---------> 211121112
+3 ---------> 321112111232111211123
+4 ---------> 432111211123211121112343211121112321112111234
+
+problem-66: Take input of disk number and print steps to solve the "Tower of Hanoi" based on disk number.
+
+problem-67: Take input of disk number and print steps to solve the "Tower of Hanoi" based on disk number and also print the number of moves has used. (Solved by myself)
+
+Arrays
+-------
+problem-68: Take input and store in an array the marks of students, if the mark of any student is less than 35 print its roll number. [roll number here refers to the index of the array]
+
+problem-69: Calculate the sum of all the elements in the given array. 
+
+problem-70: First ask user how much value user want to give as input then take input as an array and find the max value among them. 
+
+problem-71: Given an array of integers, change the value of all odd indexed elements to its second multiple and increment all even indexed value by 10.
+
+problem-72: Find the difference between the sum of elements at even indexes to the sum of elements at odd indexes.
+
+problem-73: Find the total number of pairs in the Array whose sum is equal to the given value x. Also print those pairs. (Don't print and count repeat triplets)
+
+problem-74: Count the number of triplets whose sum is equal to the given value x. Also print those triplets. (Don't print and count repeat triplets)
+
+problem-75: Find the second largest element in the given array.
+
+problem-76: Write a program to copy the contents of one array into another in the reverse order.
+
+problem-77: Write a program to copy the contents of one array into another in the reverse order. (without using extra array)
+
+problem-78: If any array contains n elements, then check if the given array is a palindrome or not. (not understand yet this problem)
+
+problem-79: Take input an array and also take input the start point and ending point then reverse that specific part of that array.
+
+problem-80: Give an array containing elements from 1 to 10 except one element in this range is missing. Find the missing element.
+
+problem-81: WAP to find a duplicate element from a given array of integers.
+
+problem-82: Find the unique number in a given Array where all the elements are being repeated twice with one value being unique.
+
+problem-83: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
