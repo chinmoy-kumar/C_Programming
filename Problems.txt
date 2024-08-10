@@ -314,10 +314,18 @@ problem-81: WAP to find a duplicate element from a given array of integers.
 
 problem-82: Find the unique number in a given Array where all the elements are being repeated twice with one value being unique.
 
-problem-83: 
+2D Array
+---------
+problem-83: Take input of 2D array and print the input in row column format.
 
+problem-84: Two array is given below. Now write a program to add two matrices.
+	arr[2][2] = {1, 2, 3, 4};
+     	brr[2][2] = {5, 6, 7, 8};
 
+problem-85: Find the sum of a given matrix of n x m
+	arr[3][3] = {1, 2, 3, 4, 5, 6, 7, 8, 9};
 
+problem-86: 
 
 
 
