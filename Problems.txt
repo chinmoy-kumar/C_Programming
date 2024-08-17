@@ -325,7 +325,14 @@ problem-84: Two array is given below. Now write a program to add two matrices.
 problem-85: Find the sum of a given matrix of n x m
 	arr[3][3] = {1, 2, 3, 4, 5, 6, 7, 8, 9};
 
-problem-86: 
+problem-86: Take input an 2D array. Find out the max element and min element in that 2D array. Also print the index of max element and min element.
+
+problem-87:
+
+problem-88: Write a program to print the row number having the maximum sum in a given matrix & the row index number.
+
+problem-89: Write a program to Print the transpose of
+the matrix entered by the user. 
 
 
 
