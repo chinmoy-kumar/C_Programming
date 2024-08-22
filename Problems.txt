@@ -338,7 +338,34 @@ problem-91: Write a program to change the given n x n matrix to it's transpose.
 
 problem-92: Write a program to rotate a matrix 90 degree clockwise.
 
-problem-93: 
+problem-93: Write a program to print the multiplication of two matrices given by the user.
+
+problem-94: For a given two-dimensional integer array/list ‘ARR’ of size (N x M), print the ‘ARR’ in a wave order, i.e., print the first column left to rihgt, next column right to left, and so on.
+
+For eg:-
+The wave for the matrix:-
+1 2
+3 4
+5 6
+will be [1, 2, 4, 3, 5, 6]
+
+problem-95:  For a given two-dimensional integer array/list ‘ARR’ of size (N x M), print the ‘ARR’ in a sine wave order, i.e., print the first column top to bottom, next column bottom to top, and so on.
+
+For eg:-
+The sine wave for the matrix:-
+1 2 3
+4 5 6
+7 8 9 
+will be [7, 4, 1, 2, 5, 8, 9, 6, 3]
+
+problem-96: Given an n x m matrix ‘arr’, print all elements
+of the matrix in spiral order.
+
+problem-97: Given a positive integer n, generate a n x n
+matrix filled with elements from 1 to n2 in spiral
+order.
+
+
 
 
 
