@@ -336,7 +336,9 @@ the matrix entered by the user.
 
 problem-91: Write a program to change the given n x n matrix to it's transpose.
 
+problem-92: Write a program to rotate a matrix 90 degree clockwise.
 
+problem-93: 
 
 
 
